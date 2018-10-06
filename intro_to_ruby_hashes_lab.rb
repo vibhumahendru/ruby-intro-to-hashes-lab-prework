@@ -4,7 +4,7 @@ x
 end
 
 def actor
-
+actor = {:name => ""}
 end
 
 def monopoly
